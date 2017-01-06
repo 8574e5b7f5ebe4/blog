@@ -17,4 +17,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin gh-staging
-git subtree push --prefix=public https://github.com/bf18cb028a5abf/blog.git gh-pages
+git subtree push --prefix=public https://github.com/8574e5b7f5ebe4/blog.git gh-pages
