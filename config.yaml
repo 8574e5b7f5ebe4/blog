@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+indexes:
+  category: "categories"
+publishdir: "public"
+baseurl: "https://github.com/8574e5b7f5ebe4/blog"
+title: "Blog"
+theme: "Lanyon"
+canonifyurls: true
+...
